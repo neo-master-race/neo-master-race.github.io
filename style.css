@@ -27,10 +27,8 @@ a {
   max-width: 960px;
 }
 
-.title {
-  font-size: 5em;
-  color: rgb(150, 20, 161);
-  text-shadow: 0 0 15px rgb(240, 5, 228), 1px 1px 5px #fff;
+.logo {
+  max-width: 100%;
 }
 
 .video > iframe {
@@ -73,7 +71,7 @@ a {
   background: #0c99a2;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 650px) {
   .title {
     font-size: 3em;
   }
