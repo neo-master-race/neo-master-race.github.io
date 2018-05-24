@@ -71,6 +71,11 @@ a {
   background: #0c99a2;
 }
 
+.flyer {
+  padding-top: 20px;
+  font-variant: small-caps;
+}
+
 @media screen and (max-width: 650px) {
   .title {
     font-size: 3em;
